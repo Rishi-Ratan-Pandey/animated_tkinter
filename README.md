@@ -2,7 +2,7 @@ Do You Want To Create Your tkinter App Good?
 
 Do You Want To Create animtion in Your tkinter App??
 
-The Answer: Is Use This Library
+The Answer: Use This Library
 
 # Getting Started:
 
